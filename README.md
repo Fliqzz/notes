@@ -11,6 +11,7 @@ Number row characters
 0
 -
 =
+- `~` - Tilde
 - `!` - Exclamation mark
 - `@` - At symbol
 - `#` - Hash, Pound, Number sign
