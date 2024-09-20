@@ -21,3 +21,9 @@ Number row characters
 - `*` - Start
 - `(` - Left bracket
 - `)` - Right bracket
+
+  
+Links
+- `[GitHub Pages]` - (https://pages.github.com/)
+- `[Comp1238]` - (https://learn.georgebrown.ca/d2l/home/291663)
+- `[Atklass]` - (https://app.atklass.com/members/l/dashboard)
