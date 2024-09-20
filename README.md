@@ -11,13 +11,13 @@ Number row characters
 0
 -
 =
-'!' - Exclamation mark
-'@' - At symbol
-'#' - Hash, Pound, Number sign
-'$' - Dollar sign, Money, Dollars
-'%' - Percent
-'^' - Up arrow
-'&' - And, Amperstand
-'*' - Start
-'(' - Left bracket
-')' - Right bracket
+`!` - Exclamation mark
+`@` - At symbol
+`#` - Hash, Pound, Number sign
+`$` - Dollar sign, Money, Dollars
+`%` - Percent
+`^` - Up arrow
+`&` - And, Amperstand
+`*` - Start
+`(` - Left bracket
+`)` - Right bracket
