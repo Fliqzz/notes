@@ -24,6 +24,12 @@ Number row characters
 
   
 Links
-- `[GitHub Pages]` - (https://pages.github.com/)
-- `[Comp1238]` - (https://learn.georgebrown.ca/d2l/home/291663)
-- `[Atklass]` - (https://app.atklass.com/members/l/dashboard)
+- `[GitHub Pages]` - https://pages.github.com/
+- `[Comp1238]` - https://learn.georgebrown.ca/d2l/home/291663
+- `[Atklass]` - https://app.atklass.com/members/l/dashboard
+
+
+Experiement
+- `[Books]`:book:
+- `[Computer]`:computer:
+- `[Hands]`:hand:
