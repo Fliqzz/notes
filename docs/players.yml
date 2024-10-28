@@ -1,0 +1,31 @@
+players:
+  - name: "LeBron James"
+    sport: "Basketball"
+    team: "Los Angeles Lakers"
+    city: "Los Angeles"
+    position: "Forward"
+    age: 39
+  - name: "Davion Mitchell"
+    sport: "Basketball"
+    team: "Toronto Raptors"
+    city: "Toronto"
+    position: "SG/PG"
+    age: 26
+  - name: "Tom Brady"
+    sport: "Football"
+    team: "Tampa Bay Buccaneers"
+    city: "Tampa Bay"
+    position: "QB"
+    age: 47
+  - name: "Cristiano Ronaldo"
+    sport: "Soccer"
+    team: "AL-Nassr FC"
+    city: "Portugal"
+    position: "Forward"
+    age: 39
+  - name: "Serena Williams"
+    sport: "Tennis"
+    team: "N/A"
+    city: "N/A"
+    position: "Player"
+    age: 43
