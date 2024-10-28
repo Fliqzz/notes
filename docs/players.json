@@ -1,22 +1,42 @@
 [
     {
-        "name": "James Brown",
-        "age": 28,
-        "position": "Guard",
-        "sports": "Basketball",
-        "team": {
-        "name": "Raptors",
-        "city": "Toronto"
-        }
+        "Name": "Lebron James",
+        "Sport": "Basketball",
+        "Team Name": "Lakers",
+        "Team city": "Los Angeles",
+        "Position": "Forward",
+        "Age": 39
     },
     {
-        "name": "Davion Mitchell",
-        "age": 26,
-        "position": "PG/SG",
-        "sports": "Basketball",
-        "team": {
-        "name": "Raptors",
-        "city": "Toronto"
-        }
+        "Name": "Davion Mitchell",
+        "Sport": "Basketball",
+        "Team Name": "Raptors",
+        "Team city": "Toronto",
+        "Position": "SG/PG",
+        "Age": 26
+    },
+    {
+        "Name": "Tom Brady",
+        "Sport": "Football",
+        "Team Name": "Buccaneers",
+        "Team city": "Tampa Bay",
+        "Position": "QB",
+        "Age": 47
+    },
+    {
+        "Name": "Cristiano Ronaldo",
+        "Sport": "Soccer",
+        "Team Name": "AL-Nassr FC",
+        "Team city": "Portugal",
+        "Position": "Forward",
+        "Age": 39
+    },
+    {
+        "Name": "Serena Williams",
+        "Sport": "Tennis",
+        "Team Name": "N/A",
+        "Team city": "N/A",
+        "Position": "Player",
+        "Age": 43
     }
 ]
