@@ -1,0 +1,22 @@
+[
+    {
+        "name": "James Brown",
+        "age": 28,
+        "position": "Guard",
+        "sports": "Basketball",
+        "team": {
+            "name": "Raptors",
+            "city": "Toronto"
+        }
+    },
+    {
+        "name": "Emily White",
+        "age": 25,
+        "position": "Forward",
+        "sports": "Basketball",
+        "team": {
+            "name": "Raptors",
+            "city": "Toronto"
+        }
+    }
+]

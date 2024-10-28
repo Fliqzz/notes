@@ -1,0 +1,15 @@
+- name: James Brown # string
+  age: 28 # integer
+  position: Guard # string
+  sports: Basketball # string
+  team: # object
+    name: Raptors # string
+    city: Toronto # string
+
+- name: Emily White # string
+  age: 25 # integer
+  position: Forward # string
+  sports: Basketball # string
+  team: # object
+    name: Raptors # string
+    city: Toronto # string
