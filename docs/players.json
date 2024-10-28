@@ -5,8 +5,8 @@
         "position": "Guard",
         "sports": "Basketball",
         "team": {
-            "name": "Raptors",
-            "city": "Toronto"
+        "name": "Raptors",
+        "city": "Toronto"
         }
     },
     {
@@ -15,8 +15,8 @@
         "position": "PG/SG",
         "sports": "Basketball",
         "team": {
-            "name": "Raptors",
-            "city": "Toronto"
+        "name": "Raptors",
+        "city": "Toronto"
         }
     }
 ]
