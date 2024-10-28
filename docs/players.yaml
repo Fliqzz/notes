@@ -3,13 +3,13 @@
   position: Guard # string
   sports: Basketball # string
   team: # object
-    name: Raptors # string
-    city: Toronto # string
+  name: Raptors # string
+  city: Toronto # string
 
 - name: Davion Mitchell
   age: 26
   position: PG/SG
   sports: Basketball
   team:
-    name: Raptors
-    city: Toronto
+  name: Raptors
+  city: Toronto
