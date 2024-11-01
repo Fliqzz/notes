@@ -1,39 +1,39 @@
 - Name: LeBron James
+  Age: 39          
   Sport: Basketball
   Team:             
     Name: Lakers    
     City: Los Angeles 
-  Position: Forward 
-  Age: 39          
+    Position: Forward 
 
 - Name: Davion Mitchell
+  Age: 26           
   Sport: Basketball     
   Team:                 
     Name: Raptors       
     City: Toronto       
-  Position: SG/PG      
-  Age: 26              
+    Position: SG/PG  
 
-- Name: Serena Williams # string: Player's full name
-  Sport: Tennis        # string: Sport played
-  Team:               # object: Team information
-    Name: N/A         # string: Team name
-    City: N/A         # string: City
-  Position: Player     # string: Player's position
-  Age: 43             # age
+- Name: Serena Williams # String:
+  Age: 43             # Number
+  Sport: Tennis        # String
+  Team:               # Object
+    Name: null         # Null
+    City: null      # Null
+    Position: Player   # String
 
 - Name: Cristiano Ronaldo
+  Age: 39            
   Sport: Soccer         
   Team:                
     Name: AL-Nassr FC  
     City: Portugal      
-  Position: Forward     
-  Age: 39              
+    Position: Forward  
 
 - Name: Tom Brady       
+  Age: 47              
   Sport: Football       
   Team:                
     Name: Buccaneers    
     City: Tampa Bay     
-  Position: Quarterback 
-  Age: 47              
+    Position: Quarterback 
