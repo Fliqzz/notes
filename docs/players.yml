@@ -1,30 +1,39 @@
-- Age: 39 # Player's age
-  Name: LeBron James # Player's full name
-  Position: Forward # Player's position
-  Sport: Basketball # Sport played
-  Team City: Los Angeles # City where the team is based
-  Team Name: Lakers # Name of the team
-- Age: 26 # Player's age
-  Name: Davion Mitchell # Player's full name
-  Position: SG/PG # Player's position
-  Sport: Basketball # Sport played
-  Team City: Toronto # City where the team is based
-  Team Name: Raptors # Name of the team
-- Age: 43 # Player's age
-  Name: Serena Williams # Player's full name
-  Position: Player # Player's role
-  Sport: Tennis # Sport played
-  Team City: N/A # City
-  Team Name: N/A # Team name
-- Age: 39 # Player's age
-  Name: Cristiano Ronaldo # Player's full name
-  Position: Forward # Player's position
-  Sport: Soccer # Sport played
-  Team City: Portugal # Country where the team is based
-  Team Name: AL-Nassr FC # Name of the team
-- Age: 47 # Player's age
-  Name: Tom Brady # Player's full name
-  Position: Quarterback # Player's position
-  Sport: Football # Sport played
-  Team City: Tampa Bay # City where the team is based
-  Team Name: Buccaneers # Name of the team
+- Name: LeBron James
+  Sport: Basketball
+  Team:             
+    Name: Lakers    
+    City: Los Angeles 
+  Position: Forward 
+  Age: 39          
+
+- Name: Davion Mitchell
+  Sport: Basketball     
+  Team:                 
+    Name: Raptors       
+    City: Toronto       
+  Position: SG/PG      
+  Age: 26              
+
+- Name: Serena Williams # string: Player's full name
+  Sport: Tennis        # string: Sport played
+  Team:               # object: Team information
+    Name: N/A         # string: Team name
+    City: N/A         # string: City
+  Position: Player     # string: Player's position
+  Age: 43             # age
+
+- Name: Cristiano Ronaldo
+  Sport: Soccer         
+  Team:                
+    Name: AL-Nassr FC  
+    City: Portugal      
+  Position: Forward     
+  Age: 39              
+
+- Name: Tom Brady       
+  Sport: Football       
+  Team:                
+    Name: Buccaneers    
+    City: Tampa Bay     
+  Position: Quarterback 
+  Age: 47              

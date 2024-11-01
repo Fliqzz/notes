@@ -2,40 +2,50 @@
     {
       "Name": "LeBron James",
       "Sport": "Basketball",
-      "Team Name": "Lakers",
-      "Team City": "Los Angeles",
+      "Team": {
+        "Name": "Lakers",
+        "City": "Los Angeles"
+      },
       "Position": "Forward",
       "Age": 39
     },
     {
       "Name": "Davion Mitchell",
       "Sport": "Basketball",
-      "Team Name": "Raptors",
-      "Team City": "Toronto",
+      "Team": {
+        "Name": "Raptors",
+        "City": "Toronto"
+      },
       "Position": "SG/PG",
       "Age": 26
     },
     {
-      "Name": "Serena Williams",
-      "Sport": "Tennis",
-      "Team Name": "N/A",
-      "Team City": "N/A",
+        "Name": "Serena Williams",        // string: Player's full name
+        "Sport": "Tennis",               // string: Sport played
+        "Team": {                        // object: Team information
+          "Name": "N/A",                 // string: Team name
+          "City": "N/A"                  // string: City
+        },
       "Position": "Player",
       "Age": 43
     },
     {
       "Name": "Cristiano Ronaldo",
       "Sport": "Soccer",
-      "Team Name": "AL-Nassr FC",
-      "Team City": "Portugal",
+      "Team": {
+        "Name": "AL-Nassr FC",
+        "City": "Portugal"
+      },
       "Position": "Forward",
       "Age": 39
     },
     {
       "Name": "Tom Brady",
       "Sport": "Football",
-      "Team Name": "Buccaneers",
-      "Team City": "Tampa Bay",
+      "Team": {
+        "Name": "Buccaneers",
+        "City": "Tampa Bay"
+      },
       "Position": "Quarterback",
       "Age": 47
     }
