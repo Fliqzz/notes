@@ -1,0 +1,30 @@
+- Age: 39 # Player's age
+  Name: LeBron James # Player's full name
+  Position: Forward # Player's position
+  Sport: Basketball # Sport played
+  Team City: Los Angeles # City where the team is based
+  Team Name: Lakers # Name of the team
+- Age: 26 # Player's age
+  Name: Davion Mitchell # Player's full name
+  Position: SG/PG # Player's position
+  Sport: Basketball # Sport played
+  Team City: Toronto # City where the team is based
+  Team Name: Raptors # Name of the team
+- Age: 43 # Player's age
+  Name: Serena Williams # Player's full name
+  Position: Player # Player's role
+  Sport: Tennis # Sport played
+  Team City: N/A # City
+  Team Name: N/A # Team name
+- Age: 39 # Player's age
+  Name: Cristiano Ronaldo # Player's full name
+  Position: Forward # Player's position
+  Sport: Soccer # Sport played
+  Team City: Portugal # Country where the team is based
+  Team Name: AL-Nassr FC # Name of the team
+- Age: 47 # Player's age
+  Name: Tom Brady # Player's full name
+  Position: Quarterback # Player's position
+  Sport: Football # Sport played
+  Team City: Tampa Bay # City where the team is based
+  Team Name: Buccaneers # Name of the team
