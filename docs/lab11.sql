@@ -1,5 +1,4 @@
 -- Nathan Lamothe
--- Insert sample assignments into the assignments table
 INSERT INTO assignments (id, course_id, title, status, due_date) VALUES
 (25, 'COMP1234', 'Assignment 2', 'Completed', '2024-11-12');
 
